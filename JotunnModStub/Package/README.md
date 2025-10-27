@@ -1,5 +1,7 @@
-﻿# JotunnModStub
-Upon building for release, this README.md is copied into the `Package` folder for thunderstore packaging. Remember to also edit the manifest.json and supply your own mod icon.
+﻿# Ulvrik's Network Optimizations (UNO)
+
+Improves networking code in order to reduce jittering and improve average FPS. This is currently experimental and should
+not be used for real games.
 
 ## Installation (manual)
 
